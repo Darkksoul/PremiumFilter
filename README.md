@@ -1,24 +1,121 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wᴇʟᴄᴏᴍᴇ+Tᴏ+Pʀᴇᴍɪᴜᴍ+Fɪʟᴛᴇʀ+Bᴏᴛ+Rᴇᴘᴏ+!!!!!;Cʀᴇᴀᴛᴇᴅ+Bʏ+TᴀᴍɪʟᴀɴBᴏᴛsZ+Tᴇᴀᴍ+!!!!!;Mᴀᴅᴇ+Wɪᴛʜ+Tᴀᴍɪʟᴀɴ+Lᴏᴠᴇ+♥️+!!!!)</p>
+<p align="center">
+  <img src="https://te.legra.ph/file/12d811d8bd6d19299f369.jpg" alt="Awesome Filter Logo">
+  </p>
+  <h1 align="center">
+    <b>Pʀᴇᴍɪᴜᴍ Fɪʟᴛᴇʀ Rᴇᴩᴏ</b>
+    </h1>
+
+## HɪɢʜLɪɢʜᴛ Fᴇᴀᴛᴜʀᴇs <b>
+
+- 🔥Uʀʟ Sʜᴏʀᴛɴᴇʀ Sᴜᴘᴘᴏʀᴛ
+- 🔥Usᴇʀ Cᴀɴ Rᴇǫᴜᴇsᴛ Fɪʟᴇs
+- 🔥Pᴍ Sʜᴏʀᴛᴇɴᴇᴅ Lɪɴᴋ
+- 🔥Cʜᴇᴄᴋ RᴇᴀʟTɪᴍᴇ Pɪɴɢ
+- 🔥Nᴇᴡ & Bᴇsᴛ Uɪ
+- 🔥Aᴜᴛᴏ Dᴇʟᴇᴛᴇ
+- 🔥Pᴍ Sᴇᴀʀᴄʜ
+- 🔥Aᴜᴛᴏ Fɪʟᴛᴇʀ Oɴ/Oғғ
+- 🔥Fᴜʟʟʏ Sᴍᴀʟʟ Cᴀᴘs Fᴏɴᴛ
+- 🔥Fɪʟᴇ Uɴᴅᴇʀ Dᴇʟᴇᴛᴇ Bᴜᴛᴛᴏɴ
+- 🔥Rᴇɴᴅᴇʀ Sᴜᴩᴩᴏʀᴛ Aᴅᴅᴇᴅ
+- 🔥/alive Cᴏᴍᴍᴀɴᴅ Aᴅᴅᴇᴅ
+- 🔥Rᴇᴩᴏʀᴛ Tᴏ Aᴅᴍɪɴ
+- 🔥Nᴇᴡ / Cᴏᴍᴍᴀɴᴅs Aᴅᴅᴇᴅ
+- 🔥Tᴇʟᴇɢʀᴀᴩʜ Gᴇɴᴇʀᴀᴛᴏʀ
+- 🔥YT Vɪᴅᴇᴏ Dᴏᴡɴʟᴏᴀᴅᴇʀ
+- 🔥Sʜᴀʀᴇ Lɪɴᴋ Gᴇɴᴇʀᴀᴛᴏʀ
+- 🔥Cᴀʀʙᴏɴ Gᴇɴᴇʀᴀᴛᴏʀ
+- 🔥Sᴛʏʟᴇ Fᴏɴᴛ Gᴇɴᴇʀᴀᴛᴏʀ
+- 🔥Pʀᴏᴩᴇʀ Rᴇǫᴜᴇsᴛ Mᴇᴛʜᴏᴅ Msɢ
+- 🔥Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ
+- 🔥Lᴏɢ Mᴇssᴀɢᴇ Cʜᴀɴɢᴇᴅ\</b>
+
+### Mᴜsᴛ AᴅᴅVᴀʀɪᴀʙʟᴇs
+
+- `BOT_TOKEN` 👈 ᴄʀᴇᴀᴛᴇ ᴀ ʙᴏᴛ ғʀᴏᴍ ʙᴏᴛғᴀᴛʜᴇʀ
+- `API_ID` 👈 ɢᴇᴛ ᴀᴘɪ ɪᴅ ғʀᴏᴍ ( Telegram.Org )
+- `API_HASH` 👈 ɢᴇᴛ ᴀᴘɪ ʜᴀsʜ ғʀᴏᴍ ( Telegram.Org )
+- `CHANNELS` 👈 ᴄʀᴇᴀᴛᴇ ᴀ ᴅʙ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴀᴅᴍɪɴ ᴛʜᴇ ᴅᴇᴘᴏʟʏ ʙᴏᴛ
+- `ADMINS` 👈 ɢᴇᴛ ᴜʀ ɪᴅ ғʀᴏᴍ ( @MissRose_bot ) ʙᴏᴛ
+- `DATABASE_URI` 👈 ɢᴇᴛ ᴍᴏɴɢᴏᴅʙ ᴜʀʟ ғʀᴏᴍ ( mongodb.com )
+- `DATABASE_NAME` 👈 ɢᴇᴛ ᴍᴏɴɢᴏᴅʙ ɴᴀᴍᴇ ғʀᴏᴍ ( mongodb.com )
+- `LOG_CHANNEL` 👈 ᴄʀᴇᴀᴛᴇ ᴀ ʟᴏɢ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴀᴅᴍɪɴ ᴛʜᴇ ᴅᴇᴘᴏʟʏ ʙᴏᴛ
+- `FILE_REQ_CHANNEL` 👈 ғɪʟᴇ ʀᴇǫᴜᴇsᴛ ɴᴏᴛɪғɪᴄᴀᴛɪᴏɴ ᴄʜᴀɴɴᴇʟ ɪᴅ
+- `AUTO_DELETE_SECONDS` 👈 ɢɪᴠᴇ ɪɴ sᴇᴄᴏɴᴅs ғᴏʀᴍᴀᴛ
+
+## 👏 Pʀᴏᴜᴅ Tᴏ Sᴀʏ 👏
+
+⚡ Fɪʀsᴛ Tɪᴍᴇ Oɴ Gɪᴛʜᴜʙ ﹛ Oᴩᴇɴ Sᴏᴜʀᴄᴇ ﹜ ⚡
+
+Fɪʀsᴛ Tɪᴍᴇ Tᴏ Aᴅᴅ Tʜɪs Fᴇᴀᴛᴜʀᴇ Oɴ Oᴩᴇɴ Sᴏᴜʀᴄᴇ Rᴇᴩᴏ
 
 
-- `BOT_TOKEN` -"6659076698:AAFiy0n_ZaJyMWP7JH5nkvrpWe_qpexkCTs"
-- `API_ID` -"1968287"
-- `API_HASH` -"fddba1119766321a3dff330db7c917f1"
-- `CHANNELS` -"1910218280"
-- `ADMINS`-"2133246930 1995766533 6114671805 6156013850 6258807868 1857232517 5841761654  "
-- `DATABASE_URI` -"https://t.me/+bxoomrchX-kxNTFl"
-- `DATABASE_NAME` -"Drama Database Devil"
-- `LOG_CHANNEL` -"https://t.me/+bxoomrchX-kxNTFl"
-- `FILE_REQ_CHANNEL` -"1910218280"
-- `AUTO_DELETE_SECONDS` -"60s"
+Pᴏsᴛ Sʜᴏʀᴛɴᴇʀ Lɪɴᴋ Fᴇᴀᴛᴜʀᴇ 😗
+
+Cᴀɴ'ᴛ ᴜɴᴅᴇʀsᴛᴀɴᴅ ﹖ Sᴇᴇ SᴄʀᴇᴇɴSʜᴏᴛ 👇
+<p align="center">
+  <img src="https://graph.org/file/21483ea00b3d273b8b9cb.jpg" alt="Proud To Say">
+  </p>
+
+## Dᴇᴘᴏʟʏ
+Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
+
+<a href=https://github.com/Darkksoul/PremiumFilter/blob/Tamilans-Working-Branch/Instruction.pyyy>Follow This Instruction Before Depolying Heroku / Koyeb</a>
 
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Hᴇʀᴏᴋᴜ {ᴘᴀɪᴅ}</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Darkksoul/PremiumFilte">
+<a href="https://heroku.com/deploy?template=https://github.com/Darkksoul/PremiumFilter">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
   </a>
   </p>
   </details>
+
+<details><summary>Dᴇᴘᴏʟʏ Tᴏ Rᴇɴᴅᴇʀ {ғʀᴇᴇ}</summary>
+<p>
+<br>
+<a href="https://dashboard.render.com/select-repo?type=web">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="deploy-to-render">
+<b><a href=https://tx.me/Sharath_Links/36>Please Watch Tutorial Before Depoly Or Error</a></b>
+  </a>
+  </p>
+  <p>
+</details>
+<details><summary>Dᴇᴘᴏʟʏ Tᴏ Kᴏʏᴇʙ {ᴩᴀɪᴅ}</summary>
+<p>
+<br>
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/TamilanBotsZ/PremiumFilter&branch=Tamilans-Working-Branch">
+  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="deploy-to-koyeb">
+  </a
+  </p>
+  <p>
+</details>  
+<details><summary>Dᴇᴘᴏʟʏ Tᴏ Oᴋᴛᴇᴛᴏ {ᴘᴀɪᴅ}</summary>
+<p>
+<br>
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/TamilanBotsZ/PremiumFilter">
+  <img src="https://okteto.com/develop-okteto.svg" alt="deploy-to-okteto">
+  </a>
+  </p>
+  </details>
+<details><summary>Dᴇᴘᴏʟʏ Tᴏ Rᴀɪʟᴡᴀʏ {ғʀᴇᴇ}</summary>
+<p>
+<br>
+<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FTamilanBotsZ%2FPremiumFilter">
+  <img src="https://railway.app/button.svg" alt="deploy-to-railway">
+  </a>
+  </p>
+  </details>
+<details><summary>Rᴜɴ Lᴏᴄᴀʟʟʏ/Vᴘs {ᴘᴀɪᴅ}</summary>
+<p>
+You must have the latest version of <a href="golang.org">go</a> installed first
+<pre>
+git clone https://github.com/TamilanBotsZ/PremiumFilter
+cd AwesomeFilterPro
+go build .
+./PremiumFilter
+</pre>
 </p>
 </details>
 
@@ -40,3 +137,4 @@ chats - 🕳️ ᴛᴏᴛᴀʟ ᴄʜᴀᴛs ɪɴғᴏ
 broadcast - 🔮 ʙʀᴏᴀᴅᴄᴀsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ )
 link - 🖇️ ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 ```
+
